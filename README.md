@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Zikran Maulana 👋
+
+![zikran maulana](img/name-card.png)
 
 <!--
 **ZikranMaulana/ZikranMaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@MaxyAcademy**
+- 🌱 I’m currently learning [**Laravel**](laravel.com) Framework
+  🤡🤡🤡
