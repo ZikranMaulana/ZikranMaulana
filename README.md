@@ -20,3 +20,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **@MaxyAcademy**
 - 🌱 I’m currently learning [**Laravel**](laravel.com) Framework
   🤡🤡🤡
+
+##### Skills
+
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+
+<!-- <img src="{BadgeURLHere}" /> -->
+
+##### Contact with me
+![https://instagram.com/zkrn.mlna](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
