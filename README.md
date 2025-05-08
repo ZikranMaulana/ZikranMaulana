@@ -1,6 +1,6 @@
 ## Hello World! I'm Zikran Maulana 👋
 
-![zikran maulana](img/name-card.png)
+![zikran maulana](img/github-header-image.png)
 
 <!--
 **ZikranMaulana/ZikranMaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
